@@ -8,5 +8,6 @@ namespace CalculadoraExperience
 {
     internal class Operations
     {
+        //HAVERÁ MÉTODO COM AS OPERAÇÕES DA CALCULADORA
     }
 }

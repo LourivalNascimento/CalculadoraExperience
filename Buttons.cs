@@ -9,6 +9,7 @@ namespace CalculadoraExperience
     internal class Buttons
     {
         private String numero;
+        //Até então método inutilizado
         public String NumeroEscolhido(int btnNumero)
         {
                 return numero = btnNumero.ToString();
