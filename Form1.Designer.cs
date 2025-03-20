@@ -54,6 +54,7 @@
             this.labelValor1 = new System.Windows.Forms.Label();
             this.textBoxValor = new System.Windows.Forms.TextBox();
             this.btnMinimizar = new System.Windows.Forms.Button();
+            this.btnTema = new System.Windows.Forms.Button();
             this.panelValores.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -76,6 +77,7 @@
             // 
             this.btnSeven.BackColor = System.Drawing.Color.LightCyan;
             this.btnSeven.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnSeven.FlatAppearance.BorderSize = 0;
             this.btnSeven.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSeven.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSeven.ForeColor = System.Drawing.Color.SeaGreen;
@@ -91,6 +93,7 @@
             // 
             this.btnEight.BackColor = System.Drawing.Color.LightCyan;
             this.btnEight.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnEight.FlatAppearance.BorderSize = 0;
             this.btnEight.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnEight.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEight.ForeColor = System.Drawing.Color.SeaGreen;
@@ -106,6 +109,7 @@
             // 
             this.btnNine.BackColor = System.Drawing.Color.LightCyan;
             this.btnNine.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnNine.FlatAppearance.BorderSize = 0;
             this.btnNine.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNine.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNine.ForeColor = System.Drawing.Color.SeaGreen;
@@ -121,6 +125,7 @@
             // 
             this.btnDivide.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnDivide.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnDivide.FlatAppearance.BorderSize = 0;
             this.btnDivide.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDivide.Font = new System.Drawing.Font("OCR A Extended", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDivide.ForeColor = System.Drawing.Color.SeaGreen;
@@ -135,6 +140,7 @@
             // 
             this.btnFour.BackColor = System.Drawing.Color.LightCyan;
             this.btnFour.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnFour.FlatAppearance.BorderSize = 0;
             this.btnFour.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnFour.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnFour.ForeColor = System.Drawing.Color.SeaGreen;
@@ -150,6 +156,7 @@
             // 
             this.btnFive.BackColor = System.Drawing.Color.LightCyan;
             this.btnFive.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnFive.FlatAppearance.BorderSize = 0;
             this.btnFive.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnFive.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnFive.ForeColor = System.Drawing.Color.SeaGreen;
@@ -165,6 +172,7 @@
             // 
             this.btnSix.BackColor = System.Drawing.Color.LightCyan;
             this.btnSix.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnSix.FlatAppearance.BorderSize = 0;
             this.btnSix.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSix.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSix.ForeColor = System.Drawing.Color.SeaGreen;
@@ -180,6 +188,7 @@
             // 
             this.btnMultiplica.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnMultiplica.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnMultiplica.FlatAppearance.BorderSize = 0;
             this.btnMultiplica.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMultiplica.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMultiplica.ForeColor = System.Drawing.Color.SeaGreen;
@@ -194,6 +203,7 @@
             // 
             this.btnOne.BackColor = System.Drawing.Color.LightCyan;
             this.btnOne.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnOne.FlatAppearance.BorderSize = 0;
             this.btnOne.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOne.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOne.ForeColor = System.Drawing.Color.SeaGreen;
@@ -209,6 +219,7 @@
             // 
             this.btnTwo.BackColor = System.Drawing.Color.LightCyan;
             this.btnTwo.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnTwo.FlatAppearance.BorderSize = 0;
             this.btnTwo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTwo.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTwo.ForeColor = System.Drawing.Color.SeaGreen;
@@ -224,6 +235,7 @@
             // 
             this.btnThre.BackColor = System.Drawing.Color.LightCyan;
             this.btnThre.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnThre.FlatAppearance.BorderSize = 0;
             this.btnThre.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnThre.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnThre.ForeColor = System.Drawing.Color.SeaGreen;
@@ -239,6 +251,7 @@
             // 
             this.btnSubtrai.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnSubtrai.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnSubtrai.FlatAppearance.BorderSize = 0;
             this.btnSubtrai.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSubtrai.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSubtrai.ForeColor = System.Drawing.Color.SeaGreen;
@@ -253,6 +266,7 @@
             // 
             this.btnVirgula.BackColor = System.Drawing.Color.LightCyan;
             this.btnVirgula.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnVirgula.FlatAppearance.BorderSize = 0;
             this.btnVirgula.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnVirgula.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnVirgula.ForeColor = System.Drawing.Color.SeaGreen;
@@ -267,6 +281,7 @@
             // 
             this.btnZero.BackColor = System.Drawing.Color.LightCyan;
             this.btnZero.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnZero.FlatAppearance.BorderSize = 0;
             this.btnZero.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnZero.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnZero.ForeColor = System.Drawing.Color.SeaGreen;
@@ -282,6 +297,7 @@
             // 
             this.btnEnter.BackColor = System.Drawing.Color.LightCyan;
             this.btnEnter.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnEnter.FlatAppearance.BorderSize = 0;
             this.btnEnter.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnEnter.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEnter.ForeColor = System.Drawing.Color.SeaGreen;
@@ -297,6 +313,7 @@
             // 
             this.btnAdiciona.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnAdiciona.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnAdiciona.FlatAppearance.BorderSize = 0;
             this.btnAdiciona.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAdiciona.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAdiciona.ForeColor = System.Drawing.Color.SeaGreen;
@@ -312,6 +329,7 @@
             // 
             this.btnPorcentagem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnPorcentagem.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnPorcentagem.FlatAppearance.BorderSize = 0;
             this.btnPorcentagem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPorcentagem.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPorcentagem.ForeColor = System.Drawing.Color.SeaGreen;
@@ -326,6 +344,7 @@
             // 
             this.btnCancelEntry.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnCancelEntry.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnCancelEntry.FlatAppearance.BorderSize = 0;
             this.btnCancelEntry.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCancelEntry.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancelEntry.ForeColor = System.Drawing.Color.SeaGreen;
@@ -335,11 +354,13 @@
             this.btnCancelEntry.TabIndex = 1;
             this.btnCancelEntry.Text = "CE";
             this.btnCancelEntry.UseVisualStyleBackColor = false;
+            this.btnCancelEntry.Click += new System.EventHandler(this.btnCancelEntry_Click);
             // 
             // btnClear
             // 
             this.btnClear.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnClear.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnClear.FlatAppearance.BorderSize = 0;
             this.btnClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnClear.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnClear.ForeColor = System.Drawing.Color.SeaGreen;
@@ -349,11 +370,13 @@
             this.btnClear.TabIndex = 1;
             this.btnClear.Text = "C";
             this.btnClear.UseVisualStyleBackColor = false;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
             // btnApagar
             // 
             this.btnApagar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnApagar.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnApagar.FlatAppearance.BorderSize = 0;
             this.btnApagar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnApagar.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnApagar.ForeColor = System.Drawing.Color.SeaGreen;
@@ -418,12 +441,28 @@
             this.btnMinimizar.UseVisualStyleBackColor = true;
             this.btnMinimizar.Click += new System.EventHandler(this.btnMinimizar_Click);
             // 
+            // btnTema
+            // 
+            this.btnTema.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnTema.FlatAppearance.BorderSize = 0;
+            this.btnTema.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnTema.Font = new System.Drawing.Font("OCR A Extended", 18F);
+            this.btnTema.ForeColor = System.Drawing.Color.MediumSeaGreen;
+            this.btnTema.Location = new System.Drawing.Point(12, 13);
+            this.btnTema.Name = "btnTema";
+            this.btnTema.Size = new System.Drawing.Size(46, 34);
+            this.btnTema.TabIndex = 3;
+            this.btnTema.Text = "☾";
+            this.btnTema.UseVisualStyleBackColor = true;
+            this.btnTema.Click += new System.EventHandler(this.btnTema_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(367, 498);
+            this.Controls.Add(this.btnTema);
             this.Controls.Add(this.panelValores);
             this.Controls.Add(this.btnAdiciona);
             this.Controls.Add(this.btnEnter);
@@ -455,6 +494,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "B M C A L C";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.panelValores.ResumeLayout(false);
             this.panelValores.PerformLayout();
             this.ResumeLayout(false);
@@ -488,6 +528,7 @@
         private System.Windows.Forms.TextBox textBoxValor;
         private System.Windows.Forms.Label labelValor1;
         private System.Windows.Forms.Button btnMinimizar;
+        private System.Windows.Forms.Button btnTema;
     }
 }
 
