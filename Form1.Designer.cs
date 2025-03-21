@@ -407,7 +407,6 @@
             this.labelValor1.Name = "labelValor1";
             this.labelValor1.Size = new System.Drawing.Size(302, 25);
             this.labelValor1.TabIndex = 1;
-            this.labelValor1.Text = "0";
             this.labelValor1.TextAlign = System.Drawing.ContentAlignment.TopRight;
             // 
             // textBoxValor
@@ -446,11 +445,11 @@
             this.btnTema.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.btnTema.FlatAppearance.BorderSize = 0;
             this.btnTema.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnTema.Font = new System.Drawing.Font("OCR A Extended", 18F);
+            this.btnTema.Font = new System.Drawing.Font("OCR A Extended", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTema.ForeColor = System.Drawing.Color.MediumSeaGreen;
-            this.btnTema.Location = new System.Drawing.Point(12, 13);
+            this.btnTema.Location = new System.Drawing.Point(12, 2);
             this.btnTema.Name = "btnTema";
-            this.btnTema.Size = new System.Drawing.Size(46, 34);
+            this.btnTema.Size = new System.Drawing.Size(57, 49);
             this.btnTema.TabIndex = 3;
             this.btnTema.Text = "☾";
             this.btnTema.UseVisualStyleBackColor = true;
